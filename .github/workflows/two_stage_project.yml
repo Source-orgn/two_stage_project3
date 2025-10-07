@@ -1,5 +1,3 @@
-Original workflow=>
-
 name: rani-ukamble-group/two_stage_project
 on:
   push:
